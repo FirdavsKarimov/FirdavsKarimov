@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a **passionate backend developer** specializin
 ---
 
 ## 💼 Experience
-- 🌍 **7 Months of Professional Development**  
+- 🌍 **1 Year of Professional Development**  
   - **6 Months** working with a **US-based company**, gaining invaluable experience on international projects.  
   - Proficient in designing APIs, optimizing backend logic, and integrating third-party services.  
 
