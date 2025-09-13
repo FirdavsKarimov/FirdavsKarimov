@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Firdavs Karimov!
 
-Welcome to my GitHub profile! I'm a **passionate backend developer** specializing in **JavaScript**, **Node.js**, and **Express.js**. With a knack for solving problems and building efficient systems, I thrive in the world of code and creativity.  
+Welcome to my GitHub profile! I'm a **passionate full-stack developer** specializing in **JavaScript**, **Node.js**, **React** and **Express.js**. With a knack for solving problems and building efficient systems, I thrive in the world of code and creativity.  
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a **passionate backend developer** specializin
 ---
 
 ## 💼 Experience
-- 🌍 **1 Year of Professional Development**  
+- 🌍 **2 Year of Professional Development**  
   - **6 Months** working with a **US-based company**, gaining invaluable experience on international projects.  
   - Proficient in designing APIs, optimizing backend logic, and integrating third-party services.  
 
